@@ -3,7 +3,7 @@ Using some linear algebra techniques to find correlation between programming lan
 
 ## About the project.
 I developed this as my Linear Algebra's final project.
-The idea of finding which programming languagens were somehow correlated amazed me.
+The idea of finding which programming languages were somehow correlated amazed me.
 
 ## Screenshots
 #### 2d plot - All programming languages
